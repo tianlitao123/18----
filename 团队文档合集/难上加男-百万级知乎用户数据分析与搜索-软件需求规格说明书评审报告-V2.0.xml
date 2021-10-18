@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.6" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\网站\公开\教学资源\文档模板\《评审报告》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-4QU--Qo:" language="zh-cn" productVersion="14.0.0" ?><?mso-application progid="InfoPath.Document"?><评审报告 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="百万级知乎用户数据分析与搜索" 项目标识="需求规格说明书" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识>评审报告</文件标识>
+			<当前版本>v1.0</当前版本>
+			<作者>
+				<姓名>廖谢龙</姓名>
+				<学号>2018011371</学号>
+				<团队>难上加男</团队>
+			</作者>
+			<完成日期>2021-10-17</完成日期>
+			<版本更新信息>2021-10-17-v2.0</版本更新信息>
+		</状态与版本信息>
+	</首部>
+	<标题>百万级知乎用户数据分析与搜索 需求规格说明书 评审报告</标题>
+	<组织名称>难上加男有限责任公司</组织名称>
+	<评审种类>
+		<定期评审>1</定期评审>
+	</评审种类>
+	<主持人>廖谢龙</主持人>
+	<参加人><div xmlns="http://www.w3.org/1999/xhtml">参加人员：廖谢龙、孙嘉恒、孙怡轩、石荣兴、马立军、田力涛、陶佳宝、王悦炜、高源</div>
+<div xmlns="http://www.w3.org/1999/xhtml">会议记录：孙怡轩。</div></参加人>
+	<地点>教2-403</地点>
+	<日期>2021-10-12</日期>
+	<提交内容><div xmlns="http://www.w3.org/1999/xhtml">1.需求构思及描述v2.0</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.软件需求规格说明书v2.0</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></提交内容>
+	<评审项与结论>
+		<要素>细化用户需求、明确技术栈、分配各组任务</要素>
+		<评审结果><div xmlns="http://www.w3.org/1999/xhtml">1、需求分析问题不够明确，存在命名错误和不规范问题。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2、需求规格说明书的功能部分还不完善，功能列表图例未命名，在发表正式版前 还得进一步完善。</div></评审结果>
+		<问题和对策><div xmlns="http://www.w3.org/1999/xhtml">
+<div><font size="2" face="宋体">1.爬虫开发组根据用户需求进行爬虫开发</font></div>
+<div><font size="2" face="宋体">2.后台开发组根据用户需求进行后台功能架构设计及开发</font></div>
+<div><font size="2" face="宋体">3.前端开发组根据UI图与用户确认后进行初步开发</font></div>
+<div><font size="2" face="宋体">4.测试组根据系统功能设计测试用例</font></div>
+<div>5.对需求构思及描述和软件需求规格说明书进行修改</div></div></问题和对策>
+	</评审项与结论>
+	<总结>软件开发过程中出现的问题要迅速解决，不能留下后遗症，比如这次的需求分析和需求规格说明书没有规范化，后续工作就不能继续顺利进行。在今后的开发中，项目经理要督促大家的工作进度，按期完成各自的工作。</总结>
+	<签字>廖谢龙</签字>
+	<附件>
+		<其他材料>参看《需求构思及描述v2.0》《软件需求规格说明书v2.0》《用户需求说明书v3.0》</其他材料>
+		<评审记录>孙怡轩负责会议记录</评审记录>
+	</附件>
+</评审报告>
