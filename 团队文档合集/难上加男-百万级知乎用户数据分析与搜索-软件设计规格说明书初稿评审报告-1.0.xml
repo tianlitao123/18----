@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.6" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\网站\公开\教学资源\文档模板\《评审报告》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-4QU--Qo:" language="zh-cn" productVersion="14.0.0" ?><?mso-application progid="InfoPath.Document"?><评审报告 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="百万级知乎用户数据分析与搜索" 项目标识="软件设计规格说明书初稿" version="1.0">
+		<状态与版本信息>
+			<文件状态>草稿</文件状态>
+			<文件标识></文件标识>
+			<当前版本>1.0</当前版本>
+			<作者>
+				<姓名>廖谢龙</姓名>
+				<学号>2018011371</学号>
+				<团队>难上加男</团队>
+			</作者>
+			<完成日期>2021-10-23</完成日期>
+			<版本更新信息></版本更新信息>
+		</状态与版本信息>
+	</首部>
+	<标题>百万级知乎用户数据分析与搜索</标题>
+	<组织名称>难上加男</组织名称>
+	<评审种类>
+		<定期评审>1</定期评审>
+	</评审种类>
+	<主持人>廖谢龙</主持人>
+	<参加人><div xmlns="http://www.w3.org/1999/xhtml">石荣兴、田力涛、马立军、高源、孙嘉恒、孙怡轩、陶佳宝、王悦炜</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div></参加人>
+	<地点>学2-407</地点>
+	<日期>2021-10-19</日期>
+	<提交内容>《百万级知乎用户数据分析与搜索软件设计规格说明书初稿》</提交内容>
+	<评审项与结论>
+		
+	<要素>软件设计</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml">1.缺乏体系结构设计文字描述</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.用例设计不规范</div></评审结果><问题和对策><div xmlns="http://www.w3.org/1999/xhtml">1.文档人员与开发团队加强沟通，完善设计内容</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.熟悉各类图谱，将设计内容规范化</div></问题和对策></评审项与结论>
+	<总结>软件设计中出现的问题要迅速解决，不能留下后遗症，比如这次的数据设计和部署设计没有规范化，后续工作就不能继续顺利进行。在今后的开发中，项目经理要督促大家的工作进度，按期完成各自的工作。</总结>
+	<签字>廖谢龙</签字>
+	<附件>
+		<其他材料><div xmlns="http://www.w3.org/1999/xhtml">《百万级知乎用户数据分析与搜索需求规格说明书》</div>
+<div xmlns="http://www.w3.org/1999/xhtml">《百万级知乎用户数据分析与搜索设计规格说明书》</div></其他材料>
+		<评审记录><div xmlns="http://www.w3.org/1999/xhtml">孙怡轩负责会议记录</div></评审记录>
+	</附件>
+</评审报告>
